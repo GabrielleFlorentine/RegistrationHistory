@@ -2,16 +2,16 @@
   {
     "name": "Andi Malarangeng",
     "date": "23 Des 2018",
-    "status": "Approve",
+    "status": "Approve"
   },
   {
     "name": "Daniel Mananta",
     "date": "23 Des 2018",
-    "status": "Pending",
+    "status": "Pending"
   },
   {
     "name": "Sundari Hanaah",
     "date": "23 Des 2018",
-    "status": "Reject",
+    "status": "Reject"
   }
 ]
