@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Andi Malarangeng",
+    "date": "23 Des 2018",
+    "status": "Approve",
+  },
+  {
+    "name": "Daniel Mananta",
+    "date": "23 Des 2018",
+    "status": "Pending",
+  },
+  {
+    "name": "Sundari Hanaah",
+    "date": "23 Des 2018",
+    "status": "Reject",
+  }
+]
