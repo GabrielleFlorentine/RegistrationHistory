@@ -1,17 +1,26 @@
 [
   {
-    "name": "Andi Malarangeng",
-    "date": "23 Des 2018",
-    "status": "Approve"
+    "type": "Komisi",
+    "date": "8 Jul 2019",
+    "status": "success",
+    "nominal": "50.000"
   },
   {
-    "name": "Daniel Mananta",
-    "date": "23 Des 2018",
-    "status": "Pending"
+    "type": "Bank Transfer",
+    "date": "9 Jul 2019",
+    "status": "failed",
+    "nominal": "200.000"
   },
   {
-    "name": "Sundari Hanaah",
-    "date": "23 Des 2018",
-    "status": "Reject"
+    "type": "Bank Transfer",
+    "date": "10 Jul 2019",
+    "status": "success",
+    "nominal": "200.000"
+  },
+  {
+    "type": "Bank Transfer",
+    "date": "11 Jul 2019",
+    "status": "failed",
+    "nominal": "20.000"
   }
 ]
